@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "${workspaceFolder}/movies.db",
+            "dialect": "SQLite",
+            "name": "Sequelize Practice"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
